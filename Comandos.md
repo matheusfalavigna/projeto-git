@@ -48,3 +48,8 @@ Junta as alterações do branch passado como parametro para o branch que está a
 ## git checkout -b [nome da branch]
 
 Cria e muda para uma nova branch
+
+
+## git commit
+
+Quando acontecer um conflito, utilizar o "git commit" sem nenhum parametro
