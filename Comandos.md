@@ -19,3 +19,8 @@ Adiciona todas as alterações na Stage Area
 ## git add .
 
 Adiciona todas as alterações na Stage Area, a partir do diretório que está
+
+## Adicionando nome e email nas configurações globais
+
+git config --global user.name "seu nome"
+git config --global user.email "seu email"
