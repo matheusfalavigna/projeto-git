@@ -29,3 +29,18 @@ git config --global user.email "seu email"
 
 Cria um commit das alterações que estão na Stage Area
 
+## git branch
+
+Cria uma nova ramificação (branch) que foram criadas no projeto
+
+## git branch [nome do branch]
+
+Cria um novo branch
+
+## git checkout [nome do branch]
+
+altera os arquivos para o historico do branch passado
+
+## git merge [nome da branch]
+
+Junta as alterações do branch passado como parametro para o branch que está atual no projeto
