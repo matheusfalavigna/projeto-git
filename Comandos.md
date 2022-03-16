@@ -44,3 +44,7 @@ altera os arquivos para o historico do branch passado
 ## git merge [nome da branch]
 
 Junta as alterações do branch passado como parametro para o branch que está atual no projeto
+
+## git checkout -b [nome da branch]
+
+Cria e muda para uma nova branch
