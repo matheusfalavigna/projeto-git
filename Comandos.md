@@ -24,3 +24,8 @@ Adiciona todas as alterações na Stage Area, a partir do diretório que está
 
 git config --global user.name "seu nome"
 git config --global user.email "seu email"
+
+## git commit -m [mensagem]
+
+Cria um commit das alterações que estão na Stage Area
+
